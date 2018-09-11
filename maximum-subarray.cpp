@@ -1,4 +1,4 @@
-int maxSubArray(vector<int>& nums) {
+int maxSubArray(vector<int>& nums) {  
         if(nums.size() < 1) {
             return 0;
         }
